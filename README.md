@@ -1,4 +1,4 @@
-# easygui_patch
+# Python_easygui_patch
 author: Robert Anderson
 
 Modification to Stephen Ferg's EasyGui to enable up to three adjacent images
